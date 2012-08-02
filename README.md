@@ -15,7 +15,7 @@ In your web page:
 <script src="dist/backgroundsize.min.js"></script>
 <script>
 jQuery(function($) {
-  $.awesome(); // "awesome"
+  $.backgroundSize();
 });
 </script>
 ```
