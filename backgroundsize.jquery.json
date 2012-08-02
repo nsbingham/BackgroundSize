@@ -1,0 +1,28 @@
+{
+  "name": "backgroundsize",
+  "title": "BackgroundSize",
+  "description": "A polyfill for the CSS background-size attribute.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/nsbingham/BackgroundSize",
+  "author": {
+    "name": "Nathan Bingham",
+    "email": "nsbingham@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nsbingham/BackgroundSize"
+  },
+  "bugs": {
+    "url": "https://github.com/nsbingham/BackgroundSize/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/nsbingham/BackgroundSize/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": ">= 1.6"
+  },
+  "keywords": []
+}
